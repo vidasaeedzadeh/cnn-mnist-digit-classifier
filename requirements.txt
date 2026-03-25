@@ -17,7 +17,7 @@ bleach @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_ble
 blinker @ file:///home/conda/feedstock_root/build_artifacts/blinker_1731096409132/work
 Brotli @ file:///Users/runner/miniforge3/conda-bld/brotli-split_1749229914644/work
 cached-property @ file:///home/conda/feedstock_root/build_artifacts/cached_property_1615209429212/work
-certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1754231422783/work/certifi
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1772001073725/work/certifi
 cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1725560578465/work
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1754767332901/work
 choreographer==1.0.9
@@ -109,6 +109,7 @@ packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_
 pandas @ file:///Users/runner/miniforge3/conda-bld/pandas_1755779027131/work
 pandocfilters @ file:///home/conda/feedstock_root/build_artifacts/pandocfilters_1631603243851/work
 parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1733271261340/work
+patsy @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_patsy_1760998269/work
 pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_1733301927746/work
 pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1733327343728/work
 pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1751482098407/work
@@ -147,6 +148,7 @@ roman-numerals-py==3.1.0
 rpds-py @ file:///Users/runner/miniforge3/conda-bld/bld/rattler-build_rpds-py_1754569997/work
 scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1752825793418/work/dist/scikit_learn-1.7.1-cp312-cp312-macosx_11_0_arm64.whl#sha256=71b49b36b10e98404b7242c0a9c8357ad40cbdf6ca5efc46478a69d02657a892
 scipy @ file:///Users/runner/miniforge3/conda-bld/scipy-split_1754969178571/work/dist/scipy-1.16.1-cp312-cp312-macosx_11_0_arm64.whl#sha256=7fad5d7bac64f63d060b23cf62ca229a0ee29bd05560dbc2c72eee94bad25163
+seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-split_1733730015268/work
 Send2Trash @ file:///Users/runner/miniforge3/conda-bld/send2trash_1733322099476/work
 setuptools==80.9.0
 simplejson==3.20.1
@@ -162,6 +164,7 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==2.0.0
 sphinxcontrib-serializinghtml==2.0.0
 stack_data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1733569443808/work
+statsmodels @ file:///Users/runner/miniforge3/conda-bld/statsmodels_1764983200723/work
 sympy @ file:///home/conda/feedstock_root/build_artifacts/sympy_1745946051654/work
 terminado @ file:///Users/runner/miniforge3/conda-bld/terminado_1710263781917/work
 threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1741878222898/work
